@@ -2,3 +2,5 @@ pandas
 matplotlib
 textblob   
 spacy
+pynance 
+ta-lib
